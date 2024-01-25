@@ -1,5 +1,3 @@
-### Hi there I'm Enes Ekinci👋 a software developer who is eager to learn
-
 <h1 align="center">Hi there I'm Enes Ekinci👋</h1>
 <h3 align="center">A Software developer who is eager to learn</h3>
 
