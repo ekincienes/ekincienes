@@ -1,6 +1,9 @@
 ### Hi there I'm Enes Ekinci👋 a software developer who is eager to learn
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Hi there I'm Enes Ekinci👋</h1>
+<h3 align="center">A Software developer who is eager to learn</h3>
+
+<h3 align="left">Contact me on:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/enesekinci/" target="blank"><img align="center" src="http://pngimg.com/uploads/linkedIn/small/linkedIn_PNG16.png" height="30" width="30" /></a> 
 </p>
